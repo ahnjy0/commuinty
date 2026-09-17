@@ -1,0 +1,6 @@
+{
+  "name": "모디 MODI - 모바일 포토 커뮤니티",
+  "description": "모두의 디자인 및 일상을 공유하고 소통하는 모바일 포토 커뮤니티 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
